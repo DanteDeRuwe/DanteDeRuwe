@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> 
 
 I’m a full-stack software developer, looking to become the IT professional of the future. My passion is designing and building software solutions, mainly with C# and .NET. I am fascinated by software architecture, clean code, and software craftsmanship.
 
